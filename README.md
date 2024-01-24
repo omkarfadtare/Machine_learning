@@ -58,3 +58,51 @@ It is a browser based application which allows you to create and share document 
 `**kernal`
 It is a computational engine that executes code.
 
+
+
+
+
+## Mathematics for Machine learning and Data science:
+When you learn about concepts like vectors, matrices, gradient optimization, probability distribution, and p-value, you gain a deeper understanding of how and why machine learning algorithms work. Understanding the mathematics behind machine learning allows you to move beyond merely using out-of-the-box machine learning algorithms and instead, customize models more effectively. Additionally, you become better equipped to judge when to apply specific techniques and more proficient at debugging machine learning algorithms.
+
+> Linear algebra: Vectors, Matrices, Linear transformations, Systems of equations, Determinants
+> Calculas: Maximizing and minimizing functions (utilizing gradient descent)
+> Probability and Statistics: Hypothesis testing, p-value, Maximum Likelihood Estimation (MLE)
+
+Week1:
+COnstruct system equations from real life examples and identify matrix representation correspondinig to these systems. understand singualrity and linear independence calculate determinnat raw operations fro simplifying matrices
+Week2: Solve twro by two or three by three system equations familiar with concept called rank of meatrix
+Week3: simplest representation of greater values the vectors and how matrices can transform one vector into another
+Week4: eignen values and eigen vectores 
+
+Week1: System of linear equations is and some of its representations. One of them is a set of lines in the plane and another one is an array of numbers called matrix. furthermore you will learn what a singlura and non singlar sysytemsand why is this so importatnt in ilnear algebra
+APllications of linear algebra, neural network
+https://www.desmos.com/calculator/2rnqgoa6a4
+Matrices are one of the fundamental building blocks of linear algebra
+
+
+Sysytems of linear equations:
+Equations are like sentences whih gives you imformation about the world
+
+
+Complete System: Carries as many pieces of information as sentences.
+Redundant System: Contains repeated sentences, less informative.
+Contradictory System: Sentences contradict each other, making it singular.
+
+Non-singular System: Complete and informative.
+Singular System: Redundant or contradictory, less informative.
+
+Complete System: Three different pieces of information.
+Redundant System: Duplicate sentences.
+More Redundant System: All sentences are the same.
+Contradictory System: Impossible information (e.g., conflicting colors).
+
+![image](https://github.com/omkarfadtare/Machine_learning/assets/154773580/e28ee3e7-0093-4be0-a00f-032719417089)
+
+
+
+
+
+
+
+
